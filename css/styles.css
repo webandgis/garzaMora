@@ -454,9 +454,9 @@ body {
 .food img {
   width: 100%;
   height: auto;
-  border-radius: 50%;
   border: 10px solid #cfbcf3;
 }
+
 
 .food-menu .content_H {
   flex: 1 0 17em;
