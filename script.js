@@ -9,3 +9,4 @@ $('#myDiv').floatingWhatsApp({
     backgroundColor: 'crimson',
     buttonImage: '<img src="burger.svg" />'
 });
+
